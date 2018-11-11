@@ -1,3 +1,5 @@
+// √‚√≥: https://m.blog.naver.com/PostView.nhn?blogId=hujinone22&logNo=179253333&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
 import java.awt.Button;
 import java.awt.Checkbox;
 import java.awt.CheckboxGroup;
